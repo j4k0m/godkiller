@@ -10,3 +10,4 @@ A repository containing zero-day vulnerabilities and proof-of-concepts (PoCs) of
 - I-net Clear Reports XSS: https://github.com/j4k0m/godkiller/tree/main/i-net_clear_reports_xss
 - CVE-2020-27838: Keycloak Unauthorized retrieval of client secret:  https://github.com/j4k0m/godkiller/tree/main/CVE-2020-27838_poc
 - Open Redirect in keycloak in /logout endpoint: https://github.com/j4k0m/godkiller/tree/main/keycloak_openredirect_logout
+- Nginx <= 1.18.0 Request Smuggling: 
