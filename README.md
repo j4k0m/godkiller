@@ -12,7 +12,3 @@ A repository containing zero-day vulnerabilities and proof-of-concepts (PoCs) of
 - CVE-2020-27838: Keycloak Unauthorized retrieval of client secret:  https://github.com/j4k0m/godkiller/tree/main/CVE-2020-27838_poc
 - Open Redirect in keycloak in /logout endpoint: https://github.com/j4k0m/godkiller/tree/main/keycloak_openredirect_logout
 - ArcGis Blind-SSRF: https://github.com/j4k0m/godkiller/tree/main/arcgis_blind_ssrf
-
-# Contact:
-
-My discord for collaborations or questions: .jakom
